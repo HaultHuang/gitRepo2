@@ -1,1 +1,1 @@
-hello git GPL221
+This is a readme file, the repo is used to store some learning things
